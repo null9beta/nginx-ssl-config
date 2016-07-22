@@ -25,3 +25,4 @@ I will also create a salt formula that will install nginx with some helpfull con
 ### To create the dh4096.pem file that is needed
 `openssl dhparam -out dh4096.pem 4096` and move the file into the right location
 
+Test again with sourcetree
